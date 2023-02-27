@@ -5,7 +5,6 @@ public class Customer {
     private int password;
     private String iban;
     private int money;
-
     public Customer(String name, String iban, int password,int money) {
         this.iban = iban;
         this.name = name;
